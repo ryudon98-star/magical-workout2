@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "魔法学校の家トレ記録",
+  "short_name": "家トレ記録",
+  "description": "トレーニングを記録し、成長を見える化する家トレログ",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#15121c",
+  "theme_color": "#21182d",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
